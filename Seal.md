@@ -29,5 +29,5 @@ if we navigate and look for information we can see that in an old commit there w
 
 ![credenciales encontradas](img/credentials.png)
 
-
+It is also mentioned in the ToDo tasks that the latest tomcat configuration is yet to be deployed. Having this information we can now look for ways with which we can bypass the client authentication and login tomcat manager interface with found credentials. The most common misconfiguration of Nginx is path normalization. We know if we use ; while puting a path everything after that is not going to be consider for apache tomcat but nginx does not know that.
 
