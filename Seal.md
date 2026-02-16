@@ -25,5 +25,9 @@ once we enter we see there is a repository called seal_market and we can see tha
 
 ![server.png](img/server.png)
 
+if we navigate and look for information we can see that in an old commit there was credendiantls for a user called tomcat in the path tomcat/tomcat-users.xml:
+
+![credenciales encontradas](img/credentials.png)
+
 
 
