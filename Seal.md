@@ -3,4 +3,4 @@ Monday, February 16, 2026
 
 Nmap scan:
 
-(img/nmap_scan)
+![nmap_scan](img/nmap_scan)
